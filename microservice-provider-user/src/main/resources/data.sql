@@ -1,0 +1,14 @@
+insert into user (id,username,name,age,balance) values (1,'user1','张三',20,100.00);
+insert into user (id,username,name,age,balance) values (2,'user2','李四',21,200.00);
+insert into user (id,username,name,age,balance) values (3,'user3','王五',22,300.00);
+insert into user (id,username,name,age,balance) values (4,'user4','赵六',23,400.00);
+insert into user (id,username,name,age,balance) values (5,'user5','管七',24,500.00);
+insert into user (id,username,name,age,balance) values (6,'user6','孙八',25,600.00);
+insert into user (id,username,name,age,balance) values (7,'user7','电九',26,700.00);
+insert into user (id,username,name,age,balance) values (8,'user8','张十',27,800.00);
+insert into user (id,username,name,age,balance) values (9,'user9','十一',28,900.00);
+insert into user (id,username,name,age,balance) values (10,'user10','事儿',29,1000.00);
+insert into user (id,username,name,age,balance) values (11,'user11','十三',30,1050.00);
+insert into user (id,username,name,age,balance) values (12,'user12','十四',31,1400.00);
+insert into user (id,username,name,age,balance) values (13,'user13','事务',32,1008.00);
+insert into user (id,username,name,age,balance) values (14,'user14','十六',33,1700.00);
